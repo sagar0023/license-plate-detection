@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+streamlit
+opencv-python
+ultralytics == 8.3.189
+easyocr
