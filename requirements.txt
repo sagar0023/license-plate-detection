@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 streamlit
-opencv-python
+opencv-python-headless
 ultralytics == 8.3.189
 easyocr
